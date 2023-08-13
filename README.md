@@ -29,7 +29,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[DB\_Vet\_Clinic\] ](#-db_vet_clinic-)
+- [📖 DB\_Vet\_Clinic ](#-db_vet_clinic-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -51,11 +51,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [DB_Vet_Clinic] <a name="about-project"></a>
+# 📖 DB_Vet_Clinic <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
-**[DB_Vet_Clinic]** is a...
+**DB_Vet_Clinic** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
