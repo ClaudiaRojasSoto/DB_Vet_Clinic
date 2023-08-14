@@ -146,8 +146,6 @@ After running the queries, you can take screenshots of the results to showcase y
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Claudia Rojas**
 
 -   GitHub: [@githubhandle](https://github.com/ClaudiaRojasSoto)
@@ -158,8 +156,6 @@ After running the queries, you can take screenshots of the results to showcase y
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **User Authentication**
 - [ ] **Appointment Scheduling**
