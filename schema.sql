@@ -64,3 +64,5 @@ CREATE TABLE visits (
 );
 
 ALTER TABLE visits DROP CONSTRAINT visits_pkey;
+
+ALTER TABLE visits ADD PRIMARY KEY (animal_id, vet_id, visit_date);
