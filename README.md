@@ -53,6 +53,8 @@ After you're finished please remove all the comments and instructions!
 
 In this project, the objective is to develop a comprehensive database for a veterinary clinic aimed at effectively managing crucial information about animals. The tasks encompass designing and implementing tables using SQL, seamlessly incorporating data entries, and executing diverse queries for information retrieval. The ultimate aim is to forge a meticulously organized database, thereby fostering practical proficiency in handling data within the framework of a relational database system.
 
+![Diagram](img/vet_clinic.png)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 The project is built using SQL for database management. Getting Started Follow these steps to understand and work on the project:
